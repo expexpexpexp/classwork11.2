@@ -1,5 +1,3 @@
 def string_title(value):
+    """принимает на вход строку и возвращает ее со всеми заглавными буквами"""
     return value.title()
-
-
-print(string_title("stepa"))
