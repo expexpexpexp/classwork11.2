@@ -2,4 +2,4 @@ def string_title(value):
     return value.title()
 
 
-string_title("Stepa")
+print(string_title("stepa"))
